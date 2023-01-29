@@ -1,10 +1,11 @@
-{
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataZtext/plainUUTF-8_]https://raw.githubusercontent.com/EvansDataScience/CTforGA_gathering/main/DataGathering.ipynbPOfæ<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">{
  "cells": [
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<center><img src=\"http://i.imgur.com/sSaOozN.png\" width=\"500\"></center>"
+    "&lt;center&gt;&lt;img src=\"http://i.imgur.com/sSaOozN.png\" width=\"500\"&gt;&lt;/center&gt;"
    ]
   },
   {
@@ -18,7 +19,7 @@
     "* Professor of Government and Political Methodology, Pontificia Universidad Cat√≥lica del Per√∫. \n",
     "\n",
     "_____\n",
-    "<a id='home'></a>\n",
+    "&lt;a id='home'&gt;&lt;/a&gt;\n",
     "\n",
     "# Data collecting"
    ]
@@ -39,7 +40,7 @@
    "metadata": {},
    "source": [
     "____\n",
-    "<a id='part1'></a>\n",
+    "&lt;a id='part1'&gt;&lt;/a&gt;\n",
     "\n",
     "## 1. The GitHub Repo\n",
     "\n",
@@ -64,7 +65,7 @@
    "outputs": [],
    "source": [
     "from IPython.display import IFrame  \n",
-    "wikiLink=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRXdVAxZTnQ6N7bI1xJ_XRQSoG-FsiucGI_fsyBuKCi6TcO3guGB_-6nk4i6so7SG__eIpfS0o8pUuZ/pubhtml?widget=true&amp;headers=false\" \n",
+    "wikiLink=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRXdVAxZTnQ6N7bI1xJ_XRQSoG-FsiucGI_fsyBuKCi6TcO3guGB_-6nk4i6so7SG__eIpfS0o8pUuZ/pubhtml?widget=true&amp;amp;headers=false\" \n",
     "IFrame(wikiLink, width=700, height=300)"
    ]
   },
@@ -101,7 +102,7 @@
    "metadata": {},
    "source": [
     "____\n",
-    "<a id='part2'></a>\n",
+    "&lt;a id='part2'&gt;&lt;/a&gt;\n",
     "\n",
     "## 2. Uploading files"
    ]
@@ -334,7 +335,7 @@
     "\n",
     "____\n",
     "\n",
-    "<a id='part3'></a>\n",
+    "&lt;a id='part3'&gt;&lt;/a&gt;\n",
     "\n",
     "## 3. Collecting data from APIs\n",
     "\n",
@@ -419,7 +420,7 @@
    "source": [
     "[home](#home)\n",
     "____\n",
-    "<a id='part4'></a>\n",
+    "&lt;a id='part4'&gt;&lt;/a&gt;\n",
     "\n",
     "## 4. Scraping"
    ]
@@ -600,7 +601,7 @@
    "outputs": [],
    "source": [
     "# list of multiples of 5 smaller than 50\n",
-    "easyList_2=[x for x in range(50) if x%5==0 and x>0]\n",
+    "easyList_2=[x for x in range(50) if x%5==0 and x&gt;0]\n",
     "easyList_2"
    ]
   },
@@ -635,7 +636,7 @@
    "outputs": [],
    "source": [
     "# when using'else' write 'for' at the end\n",
-    "easyList_4b=[math.sqrt(x) if x >=0 else None for x in someNumbers]\n",
+    "easyList_4b=[math.sqrt(x) if x &gt;=0 else None for x in someNumbers]\n",
     "easyList_4b"
    ]
   },
@@ -696,7 +697,7 @@
     "\n",
     "[home](#home)\n",
     "____\n",
-    "<a id='part5'></a>\n",
+    "&lt;a id='part5'&gt;&lt;/a&gt;\n",
     "\n",
     "## 5. Social media data"
    ]
@@ -1074,3 +1075,4 @@
  "nbformat": 4,
  "nbformat_minor": 1
 }
+</pre></body></html>    ( > \ k Ç î ü •                           g»
